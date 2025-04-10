@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is still work in progress we are looking for contributers to get involved so feel free to submit a pr!
+
 # docker-rust-minecraft-server
 Containerized Rust based Minecraft Java Dedicated Servers with selectable version
 
